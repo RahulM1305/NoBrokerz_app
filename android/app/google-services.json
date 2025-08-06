@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "744151115705",
+    "project_id": "nobroker-c4e7c",
+    "storage_bucket": "nobroker-c4e7c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744151115705:android:4df5381fe97798f0157868",
+        "android_client_info": {
+          "package_name": "com.example.GatePass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgPRVyKxGM8gKHUSA-1pGe1f3HShcbcM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744151115705:android:7482c373547e9e63157868",
+        "android_client_info": {
+          "package_name": "com.example.nobrokerz_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgPRVyKxGM8gKHUSA-1pGe1f3HShcbcM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
